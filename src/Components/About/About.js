@@ -5,7 +5,7 @@ import { FaMugHot, FaFolder, FaEnvelope, FaTrophy } from 'react-icons/fa'
 const About = () => {
     return (
         <div>
-            <div class="about">
+            <div class="about" id="about">
                 <div class="container">
                     <div class="main-heading">
                         <h2>About Us</h2>
